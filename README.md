@@ -28,6 +28,15 @@ app/ ├── data/ # Data Layer │ ├── local/ # Room Database, DAOs, En
 | **Async** | Kotlin Coroutines, StateFlow |
 | **API** | OpenWeatherMap |
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/moscow_cloudy.png" width="30%" alt="Moscow Cloudy"/>
+  <img src="screenshots/florida_rainy.png" width="30%" alt="Florida Rainy"/>
+  <img src="screenshots/search_noida.png" width="30%" alt="Noida Search"/>
+</p>
+
+
 ## 🚀 Setup
 
 1. Clone the repository
